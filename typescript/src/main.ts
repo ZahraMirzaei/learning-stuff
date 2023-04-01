@@ -16,7 +16,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      first change.
+      second change.
     </p>
   </div>
 `;
